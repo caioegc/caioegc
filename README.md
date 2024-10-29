@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Information Systems Student @IFAL<br>- Future Mobile Developer<br>- Studying Java and Kotlin<br>- Arapiraca - Alagoas - Brazilian</p>
+<h5 align="left">- Information Systems Student @IFAL<br>- Future Mobile Developer<br>- Studying Java and Kotlin<br>- Arapiraca - Alagoas - Brazilian</h5>
 
 ###
 
@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
 ###
