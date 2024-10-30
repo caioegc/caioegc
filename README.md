@@ -19,7 +19,7 @@
 
 ###
 
-<h5 align="left">- Information Systems Student @IFAL<br>- Future Mobile Developer<br>- Studying Java and Kotlin<br>- Arapiraca - Alagoas - Brazilian</h5>
+<h5 align="left">- Information Systems Student @IFAL <br> - Future Mobile Developer <br> - Studying Java and Kotlin <br> - Arapiraca - Alagoas - Brazilian</h5>
 
 ###
 
