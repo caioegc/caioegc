@@ -10,7 +10,7 @@
       As I move forward in my journey, I’m excited to contribute to the tech community, collaborate with fellow developers, and continue learning every day. I believe that technology has the power to transform lives, and I am determined to be a part of that transformation, starting with each line of code I write today.
     </h5>
   </div>
-  <img align="center" height="250" style="border-radius: 10px;" src="https://ibb.co/kyHmb6M" />
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/59MKpx2/Captura-de-tela-2024-10-29-210745.png" alt="Captura-de-tela-2024-10-29-210745" border="0"></a>
 </div>
 
 <br clear="both">
