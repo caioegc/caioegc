@@ -10,7 +10,7 @@
       As I move forward in my journey, I’m excited to contribute to the tech community, collaborate with fellow developers, and continue learning every day. I believe that technology has the power to transform lives, and I am determined to be a part of that transformation, starting with each line of code I write today.
     </h5>
   </div>
-  <img align="center" height="250" style="border-radius: 10px;" src="[https://media.discordapp.net/attachments/1242272154637176892/1300974472429437051/Captura_de_tela_2024-10-29_210745.png?ex=6722ca65&is=672178e5&hm=66fe5d71c2bef4cf6b3645ea73fba7e42b2d2e1e68007d7731a6c56a249b9dbe&=&format=webp&quality=lossless](https://ibb.co/kyHmb6M)" />
+  <img align="center" height="250" style="border-radius: 10px;" src="https://ibb.co/kyHmb6M" />
 </div>
 
 <br clear="both">
