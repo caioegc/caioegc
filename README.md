@@ -1,16 +1,20 @@
 # 👨‍💻 Caio Eduardo
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Caio Eduardo Gomes Carvalho, desenvolvedor Fullstack em formação e estudante de Sistemas de Informação no IFAL. Tenho experiência com Java, JavaScrpi e desenvolvimento web sites, além de interesse em tecnologias web e boas práticas de código. Tenho muito gosto por aprender, construir soluções úteis e crescer como desenvolvedor. Atualmente aprimorando minhas habilidades em front-end, back-end e integração de sistemas.
+Olá! Sou Caio Eduardo Gomes Carvalho, desenvolvedor Fullstack em formação e estudante de Sistemas de Informação no IFAL.
+Tenho experiência com Java, JavaScript e desenvolvimento de aplicações web, além de grande interesse por tecnologias modernas e boas práticas de código.
+Gosto de aprender, construir soluções úteis e evoluir continuamente como desenvolvedor.
+Atualmente, estou aprimorando minhas habilidades em front-end, back-end e integração de sistemas.
+
 ---
 
 [![Portfólio](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://caioegc.github.io/portfolio-caioeduardo/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](www.linkedin.com/in/caioegc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)]((https://www.linkedin.com/in/caioegc)
 &nbsp;
 
 
---
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -106,6 +110,8 @@ Olá! Sou Caio Eduardo Gomes Carvalho, desenvolvedor Fullstack em formação e e
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
