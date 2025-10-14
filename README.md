@@ -10,7 +10,7 @@ Atualmente, estou aprimorando minhas habilidades em front-end, back-end e integr
 
 [![Portfólio](https://img.shields.io/badge/Website-2969E0?style=for-the-badge)](https://caioegc.github.io/portfolio-caioeduardo/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)]((https://www.linkedin.com/in/caioegc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/caioegc)
 &nbsp;
 
 
