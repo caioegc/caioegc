@@ -124,11 +124,7 @@ Atualmente, estou aprimorando minhas habilidades em front-end, back-end e integr
     src="https://github-readme-stats.vercel.app/api?username=caioegc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioegc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioegc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 </p>
