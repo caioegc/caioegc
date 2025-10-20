@@ -18,7 +18,6 @@ Atualmente, estou aprimorando minhas habilidades em front-end, back-end e integr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0882BD?style=for-the-badge)](https://www.linkedin.com/in/caioegc)
 &nbsp;
 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
