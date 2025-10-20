@@ -1,4 +1,9 @@
-# 👨‍💻 Caio Eduardo
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2969E0&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2969E0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Caio+Eduardo;Tenho+22+anos;Sou+de+Alagoas,+Brasil;Desenvolvedor+FullStack+em+formação;Bem-vindo+ao+meu+perfil+no+GitHub!+🚀)](https://git.io/typing-svg)
+
+---
+
 **`Desenvolvedor FullStack`**
 
 Olá! Sou Caio Eduardo Gomes Carvalho, desenvolvedor Fullstack em formação e estudante de Sistemas de Informação no IFAL.
@@ -115,16 +120,8 @@ Atualmente, estou aprimorando minhas habilidades em front-end, back-end e integr
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caioegc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+| <img src="https://github-readme-stats.vercel.app/api?username=caioegc&show_icons=true&count_private=true&hide_border=true&title_color=2969E0&icon_color=2969E0&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Caio Eduardo GitHub Stats" height="180em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioegc&layout=compact&hide_border=true&title_color=2969E0&text_color=2969E0&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" height="180em" /> |
+| ------------- | ------------- |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioegc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-</p>
+
