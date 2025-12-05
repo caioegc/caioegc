@@ -121,8 +121,9 @@ Atualmente, estou aprimorando minhas habilidades em front-end, back-end e integr
 
 ###  Estatísticas
 
-| <img src="https://github-readme-stats.vercel.app/api?username=caioegc&show_icons=true&count_private=true&hide_border=true&title_color=2969E0&icon_color=2969E0&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Caio Eduardo GitHub Stats" height="180em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioegc&layout=compact&hide_border=true&title_color=2969E0&text_color=2969E0&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" height="180em" /> |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=caioegc&show_icons=true&count_private=true&hide_border=true&title_color=2969E0&icon_color=2969E0&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" height="180em" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=caioegc&layout=compact&hide_border=true&title_color=2969E0&text_color=2969E0&bg_color=0d1117&locale=pt-br" height="180em" /> |
 | ------------- | ------------- |
+
 
 
 
